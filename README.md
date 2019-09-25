@@ -1,4 +1,4 @@
-# firebrand-vue-starter
+# bluecollar-vue-starter
 
 ## Project setup
 ```
